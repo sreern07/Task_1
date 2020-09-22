@@ -9,7 +9,7 @@ Contains:
 - compile time servlet-api.jar (so doesn't need Java EE)
 - Ant build.xml that builds the WAR
 - Simple logging, with slf4j-api and sl4j-simple
-- Jetty embedded server for running directly in Eclipe
+- Jetty embedded server for running directly in Eclipe.
 
 It should work with Java 6, 7 and upwards.
 It doesn't contain any dependendency injection specific frameworks,
