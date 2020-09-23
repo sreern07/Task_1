@@ -1,6 +1,6 @@
 # Helloworld WAR
 
-### A example Java WAR project / template project.
+### A example Java WAR project / template project..
 
 Contains:
 - Helloworld servlet (using Annotations)
